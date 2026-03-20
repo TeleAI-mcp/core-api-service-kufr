@@ -1,2 +1,3 @@
-# core-api-service-kufr
-Automated issue comment bot repository
+# Core Api Service Kufr
+
+Automated issue comment bot repository.
